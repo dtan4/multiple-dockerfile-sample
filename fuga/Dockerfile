@@ -1,3 +1,3 @@
 FROM base
 
-CMD "echo 'fuga!'"
+CMD echo 'fuga!'
