@@ -1,3 +1,3 @@
 FROM base
 
-echo 'hoge!'
+CMD "echo 'hoge!'"

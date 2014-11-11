@@ -1,3 +1,5 @@
 FROM base
 
-echo 'fuga!'
+RUN apt-get install vim
+
+CMD "echo 'fuga!'"
